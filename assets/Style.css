@@ -1,0 +1,76 @@
+*{
+  font-family: nunito;
+}
+
+ div .effect:hover{color: #ffffff;
+  background-color: rgb(100 131 143/10%);
+  box-shadow: 1px 1px 30px rgb(111 111 111/1000%);
+  transition: 0.3s ease-in;
+}
+
+/* Section 1 */
+header .s1{
+  Background-color:teal;
+  display: flex;
+  justify-content: space-between;
+}
+  .txt{color:white;}
+.s1r{ display:inlne-block
+  display: flex;
+  align: Right;
+    width: 30%;
+    display: flex;
+    padding: 20px;
+      position: relative;
+  }
+div.s1l {
+  text-align: left;
+  margin-left: 80px;
+  width: 30%;
+}
+div .s1c{padding: 8px}
+
+/* Section 2 */
+header.s2{background-color: white;
+text-align: center;
+padding:100px;}
+h2.s2a{color:#319DA0;
+  justify-content: space-between}
+
+/* Section 3 */
+div.s3{Background-color: #319DA0;
+  display:flex;
+  justify-content: space-between;
+padding:100px;}
+
+div.s3a{
+    width: 30%; margin-left:20px;}
+  div.s3b{width: 20%;}
+
+
+
+/* Section 4 */
+div.s4{margin-left:20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+  position: relative;
+  background-color: white;}
+
+  div.s4a{width:25%;
+  border-radius:6px;
+  margin-top: 15px;
+  background-color: #256D85;
+  text-align: center;
+  padding: 10px;}
+
+div.s4c{color: teal;
+margin-top:80px;
+padding:5px;
+margin-left: 120px}
+/* Section 5 */
+header.s5{Background-color: #319DA0;
+Text-align: center;
+padding: 40px;}
+
+div.s5a{padding: 30px}
